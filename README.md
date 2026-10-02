@@ -15,5 +15,5 @@ Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) e desenvolvedor em
 - **Ferramentas:** Git, GitHub
 
 📫 Como me encontrar
-- **LinkedIn:** [Clique aqui e acesse meu perfil](linkedin.com/in/leonardo-silva-011319348)
+- **LinkedIn:** [Clique aqui e acesse meu perfil](https://www.linkedin.com/in/leonardo-silva-011319348/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BeE1PlY9cQrSWO%2BnfaSftKg%3D%3D)
 - **E-mail:** [leonardo.devcorp@gmail.com]
